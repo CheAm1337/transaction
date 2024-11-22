@@ -5,6 +5,7 @@
 ![image](https://github.com/user-attachments/assets/1e96bd90-ac32-4082-b5a9-9aa1f8b33fdb) >
 ![image](https://github.com/user-attachments/assets/4ae8dbcf-7a88-42e4-99a7-dc815853934c)
 обработка неверного логина и пароля
+<br>
 ![image](https://github.com/user-attachments/assets/e8f0483d-1e40-4444-958d-33a6290f6d79) 
 <br>
 ![image](https://github.com/user-attachments/assets/32a9f870-3de6-4db1-b5e9-45b1ac4664d4)
