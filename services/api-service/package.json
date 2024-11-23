@@ -1,0 +1,17 @@
+{
+  "name": "api-service",
+  "version": "1.0.0",
+  "description": "API service for authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ioredis": "^5.4.1",
+    "kafkajs": "^2.2.4"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "currencies-service",
+  "version": "1.0.0",
+  "description": "Currency conversion service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "ioredis": "^5.4.1"
+  }
+}
