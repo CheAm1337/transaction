@@ -28,7 +28,7 @@
 
 ![image](https://github.com/user-attachments/assets/b755c148-1952-4a76-8271-1c9bb30d3f54)
 <br>
-обработка неверной транзакции
+## обработка неверной транзакции
 
 <br>
 
@@ -39,10 +39,14 @@
 ![image](https://github.com/user-attachments/assets/b10ae589-65c8-4f94-b1b5-84e85c8f6db0)
 
 <br>
+
 ## Перевод на счёт с другой валютой
+
 Здесь описан процесс перевода средств между счетами в разных валютах.
 
-![image](https://github.com/user-attachments/assets/09c96e83-7fd2-4288-af10-4a0727a57c16) ![image](https://github.com/user-attachments/assets/e35131aa-88ad-435c-bf30-1f153534e7a6) ![image](https://github.com/user-attachments/assets/4ce90eee-0703-4413-a7c1-dde266631d40) ![image](https://github.com/user-attachments/assets/7d168c09-cb73-4826-92c1-fef122986928) ![image](https://github.com/user-attachments/assets/ae489ace-ffe9-410b-b22f-1458c8744219)
+![image](https://github.com/user-attachments/assets/09c96e83-7fd2-4288-af10-4a0727a57c16) 
+<br>
+![image](https://github.com/user-attachments/assets/e35131aa-88ad-435c-bf30-1f153534e7a6) ![image](https://github.com/user-attachments/assets/4ce90eee-0703-4413-a7c1-dde266631d40) ![image](https://github.com/user-attachments/assets/7d168c09-cb73-4826-92c1-fef122986928) ![image](https://github.com/user-attachments/assets/ae489ace-ffe9-410b-b22f-1458c8744219)
 
 ---
 
