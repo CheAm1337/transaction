@@ -1,5 +1,5 @@
 # Авторизация + Логирование Авторизации
-Этот раздел описывает процесс авторизации и логирования пользователей.
+Процесс авторизации и логирования запросов на авторизацию.
 
 ![image](https://github.com/user-attachments/assets/8991317f-268b-4093-9b9e-98bbd493792d) 
 <br>
@@ -20,12 +20,25 @@
 ## Перевод на счёт с такой же валютой
 Этот процесс включает перевод средств с одного счета на другой в той же валюте.
 
-![image](https://github.com/user-attachments/assets/09c96e83-7fd2-4288-af10-4a0727a57c16) ![image](https://github.com/user-attachments/assets/d69d46dc-4a2b-4338-a1d5-dc583ee51fb7)
-<br>
-![image](https://github.com/user-attachments/assets/5bf48828-cb6d-47b2-8f09-4ed96e19d038)
-<br>
-![image](https://github.com/user-attachments/assets/b755c148-1952-4a76-8271-1c9bb30d3f54)
+![image](https://github.com/user-attachments/assets/09c96e83-7fd2-4288-af10-4a0727a57c16) 
 
+![image](https://github.com/user-attachments/assets/d69d46dc-4a2b-4338-a1d5-dc583ee51fb7)
+
+![image](https://github.com/user-attachments/assets/5bf48828-cb6d-47b2-8f09-4ed96e19d038)
+
+![image](https://github.com/user-attachments/assets/b755c148-1952-4a76-8271-1c9bb30d3f54)
+<br>
+обработка неверной транзакции
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e8ada55d-8edb-4737-84c4-5e42c0490e6e)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b10ae589-65c8-4f94-b1b5-84e85c8f6db0)
+
+<br>
 ## Перевод на счёт с другой валютой
 Здесь описан процесс перевода средств между счетами в разных валютах.
 
